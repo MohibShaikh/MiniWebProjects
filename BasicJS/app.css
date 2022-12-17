@@ -1,0 +1,19 @@
+h2 {
+    color: peru;
+    background-color: lightgray;
+}
+
+p {
+    background-color: antiquewhite;
+    color: brown;
+}
+
+button {
+    color: maroon;
+    background-color: darksalmon;
+    font-style: italic;
+}
+
+body {
+    background-color: peachpuff;
+}

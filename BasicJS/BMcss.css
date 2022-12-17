@@ -1,0 +1,43 @@
+#one {
+    background-color: #ffb5a7;
+    border: 5px;
+    border-color: rebeccapurple;
+    border-style: solid;
+
+}
+
+#two {
+    background-color: #fcd5ce;
+    border: 5px;
+    border-color: rgb(46, 24, 68);
+    border-style: solid;
+}
+
+#thr {
+    background-color: #f8edeb;
+    border: 5px;
+    border-color: rgba(35, 0, 70, 0);
+    border-style: solid;
+}
+
+#fo {
+    background-color: #fec89a;
+    border: 5px;
+    border-color: rgb(128, 0, 255);
+    border-style: solid;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    margin: 0;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 2px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+}

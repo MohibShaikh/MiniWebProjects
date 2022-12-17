@@ -1,0 +1,95 @@
+#gg {
+    text-decoration: none;
+    color: #283618;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+h1 {
+    font-weight: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: brown underline 2px;
+    text-align: center;
+}
+
+body {
+    background-color: bisque;
+    line-height: 1.2;
+    letter-spacing: normal;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    line-height: 1.6;
+}
+
+.lambo {
+    background-color: #dda15e;
+    color: darkred;
+}
+
+.buttons {
+    letter-spacing: 10px;
+}
+
+button {
+    background-color: gray;
+    color: maroon;
+    size: 15px;
+}
+
+.ho {
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ij {
+    color: rebeccapurple;
+}
+
+#sec {
+    background-color: tomato;
+}
+
+#checker {
+    background-color: tomato;
+}
+
+button:hover {
+    color: bisque;
+    background-color: brown;
+}
+
+ul a:hover {
+    background-color: coral;
+    color: silver;
+}
+
+h2::first-letter,
+h3::first-letter {
+    font-size: 50px;
+}
+
+#tt:active {
+    background-color: black;
+    color: blanchedalmond;
+}
+
+p:nth-of-type(2n) {
+    background-color: rgb(255, 225, 181);
+}
+
+p::selection {
+    background-color: firebrick;
+    color: white;
+}
+
+ul li {
+    color: white;
+}
+
+li {
+    color: black;
+}
